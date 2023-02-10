@@ -1,16 +1,14 @@
-### Hi there 👋
+# <ins>EBENEZER OSEI BINEY</ins> 
+______
+*****
 
-<!--
-**Osei-b4/Osei-b4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>**__EBENEZER is my name, i am 25 years of age and i am  interesed in becoming a web developer
+and to be able to achieve a good j0b in the future. I am an easy goig person😎 if you get knowm me.__**
+***
+### HERE ARE MY DETAILS YOU NEED TO KNOW ABOUT ME......
+1. My contact
+* **mobile number**: **0465100778**
+* **adderss**: *kruishuisstraat 35 2300 Turnhout*
+* **Email**: oseibn4@gmail.com 
+> oseibn4@gmail.com
+2.Currently 
