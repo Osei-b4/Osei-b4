@@ -11,4 +11,4 @@ and to be able to achieve a good j0b in the future. I am an easy goig person😎
 * **adderss**: *kruishuisstraat 35 2300 Turnhout*
 * **Email**: oseibn4@gmail.com 
 > oseibn4@gmail.com
-2.Currently 
+
