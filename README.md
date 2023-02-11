@@ -11,14 +11,8 @@
 
 ## My List 
 - [x] Goals.Should no not a something new to you because it what drives us to be more motivated.
+- [x] Ready to learn and grow in the **IT** and looking forward to new changes and challenges.
+- [x]
 
 
 **I want to learn Front-end tools such as :-**
- 
-## My list 
-
-- American football
-- Reading books 
-- Movie 
-- fitness
-- driving 
