@@ -1,4 +1,4 @@
-#  Hi I'm <INS>Ebenezer
+#  Hi I'm <INS>Ebenezer Osei Biney 
 ***
 *I know I am self-motivated and I am always look forward to experience. I am ready to acquire the knowledge. I am very passionate about IT really want do it more.*
 
@@ -19,3 +19,6 @@
 - [X] Helping,Laughing,Freedom 
 
 **I want to learn Front-end tools such as :-**
+ * Html
+ * Css
+ * javascript
