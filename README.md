@@ -13,3 +13,6 @@
 
 - American football
 - Reading books 
+- Movie 
+- fitness
+- driving 
