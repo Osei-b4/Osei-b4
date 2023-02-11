@@ -14,8 +14,7 @@
 
 
 **I want to learn Front-end tools such as :-**
-<!-- ![html](./images/html.png)
-![css](./images/css.png) -->
+ 
 ## My list 
 
 - American football
