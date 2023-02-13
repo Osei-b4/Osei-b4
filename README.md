@@ -13,7 +13,7 @@
 * 👨‍🎓I'm looking forward in collaborate in github project.
 * 💻How to  reach me :[linkedin](https://www.linkedin.com/in/osei-biney-3a7034266?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWEICIui1StW7btYhPyv3NA%3D%3D) 
 ## My List 
-- [x] Goals.Should no not a something new to you because it what drives us to be more motivated.
+- [x] Goals.Should  not be  something new to you because it what drives us to be more motivated.
 - [x] Ready to learn and grow in the **IT** and looking forward to new changes and challenges.
 - [x] <ins>**Honour, Respect**</ins>,Commitment and Determination.
 - [X] Helping,Laughing,Freedom 
