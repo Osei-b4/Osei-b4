@@ -1,6 +1,6 @@
 #  Hi I'm <INS>Ebenezer Osei Biney </ins>
 ***
-*I know I am self-motivated and I am always look forward to experience. I am ready to acquire the knowledge. I am very passionate about IT really want do it more.*
+*I know I am self-motivated and I am always look forward to experience. I am ready to acquire the knowledge. I am very passionate about **IT** really want do it more.*
 
 
 ![github trophy](https://github-profile-trophy.vercel.app/?username=Osei-b4&theme=juicyfresh
@@ -19,6 +19,5 @@
 - [X] Helping,Laughing,Freedom 
 
 **I want to learn Front-end tools such as :-**
- * Html <!--[html]:Html [html]:(https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)-->
  * Css
  * javascript
