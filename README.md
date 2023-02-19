@@ -20,8 +20,8 @@
 
 **I want to learn Front-end tools such as :-**
 * Html
- ![html](./images/html3.png) 
+ <!--[html](./images/html3.png)-->
 * Css
-  ![css](./images/CSS.3.svg.png)
+  <!--[css](./images/CSS.3.svg.png)-->
 * javascript
-  ![javascript](./images/3cfde400-5298-11ea-9f39-aab161ef8f69.png)
+  <!--[javascript](./images/3cfde400-5298-11ea-9f39-aab161ef8f69.png)-->
