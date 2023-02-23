@@ -19,7 +19,10 @@
 - [X] Helping,Laughing,Freedom 
 
 **I want to learn Front-end tools such as :-**
-* Html <!--[html](./images/html3.png)-->
-* Css    <!--[css](./images/CSS.3.svg.png)-->
-* Javascript     <!--[javascript](./images/3cfde400-5298-11ea-9f39-aab161ef8f69.png)-->
-* With many more
+* Html 
+![html](./images/html.svg)
+* Css    
+![css](./images/css.svg)
+* Javascript
+![javascript](./images/javascript.svg)     
+<!--* With many more-->
