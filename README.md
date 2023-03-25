@@ -24,5 +24,8 @@
 * Css:
 ![css](./images/css.svg)
 * Javascript:
-![javascript](./images/javascript.svg)     
-<!--* With many more-->
+![javascript](./images/javascript.svg)
+
+| Html | Css | Js |
+| --- | --- | --- |
+| ruby | python | linux |
