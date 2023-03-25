@@ -26,6 +26,7 @@
 * Javascript:
 ![javascript](./images/javascript.svg)
 
-| Html | Css | Js |
-| --- | --- | --- |
-| ruby | python | linux |
+ heading | header | head |
+ --- | --- | --- | 
+ content | `more content` | text 
+ more | more | more |
