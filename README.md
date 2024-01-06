@@ -26,7 +26,4 @@
 * Javascript:
 ![javascript](./images/javascript.svg)
 
- heading | header | head |
- --- | --- | --- | 
- content | `more content` | text 
- more | more | more |
+ 
